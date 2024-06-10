@@ -2,4 +2,4 @@
 
 folder variable `directory` line 6
 
-pip install pillow
+`pip install pillow`
