@@ -1,5 +1,7 @@
 # PNG To WEBP
 
-folder variable `directory` line 6
+### usage: 
+change the variable `directory` line 6 by your folder path
 
+install module
 `pip install pillow`
